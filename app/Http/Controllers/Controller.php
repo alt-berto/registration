@@ -33,7 +33,7 @@ class Controller extends BaseController
             'expertise' => $request->expertise
         ];
 
-        Mail::to( $request->email )->cc( [ 'ing.molinanestor@outlook.com' , 'registration@dmdsny.com' ] )->send( new NotificationMail( $data ) );
+        Mail::to( $request->email )->cc( [ 'sduluc@cm-ipa.com' , 'registration@dmdsny.com' ] )->send( new NotificationMail( $data ) );
 
         return 'done';
     }
