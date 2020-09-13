@@ -43,6 +43,7 @@
                                         <option value="Medical">MEDICAL</option>
                                         <option value="Dental">DENTAL</option>
                                         <option value="Pediatric">PEDIATRIC</option>
+                                        <option value="Staff Member">STAFF MEMBER</option>
                                     </select>
                                     <has-error :form="form" field="expertise"></has-error>
                                 </div>
