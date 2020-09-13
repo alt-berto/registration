@@ -471,7 +471,7 @@
 <body style=" width: 100% !important; height: 100%; -webkit-text-size-adjust: none; font-family: &quot;Nunito Sans&quot;, Helvetica, Arial, sans-serif; background-color: #F4F4F7; color: #51545E; margin: 0;"
       bgcolor="#F4F4F7">
 <span class="preheader"
-      style="display: none !important; visibility: hidden; mso-hide: all; font-size: 1px; line-height: 1px; max-height: 0; max-width: 0; opacity: 0; overflow: hidden;">Esta factura fue creada por su compra reciente en Fantayrooms </span>
+      style="display: none !important; visibility: hidden; mso-hide: all; font-size: 1px; line-height: 1px; max-height: 0; max-width: 0; opacity: 0; overflow: hidden;"> JUNTOS SOMOS FUERTES From Crisis To Recovery. </span>
 <table class="email-wrapper" width="100%" cellpadding="0" cellspacing="0" role="presentation"
        style="width: 100%; -premailer-width: 100%; -premailer-cellpadding: 0; -premailer-cellspacing: 0; background-color: #F4F4F7; margin: 0; padding: 0;"
        bgcolor="#F4F4F7">
@@ -536,7 +536,7 @@
 
                                         <p style="font-size: 16px; line-height: 1.625; color: #51545E; margin: .4em 0 1.1875em;">
                                             If you have any question, please write us an email to <a
-                                                    href="mailto:example@email.com">example@email.com</a></p>
+                                                    href="mailto:Lcarrasco@cm-ipa.com">Lcarrasco@cm-ipa.com</a></p>
                                         <p style="font-size: 16px; line-height: 1.625; color: #51545E; margin: .4em 0 1.1875em;">
                                             Thanks.
                                         </p>
