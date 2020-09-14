@@ -59,7 +59,7 @@
                                     </div>
                                 </div>
                                 <div class="form-group" >
-                                    <p style="color:#234262!important; font-size: 11px;"> *The Medical Syposium qualifies for Continuing Medical Education. Upon your successful registration yo will be provided with a link to access the conference. This Conference link is no transferable.  </p>
+                                    <p style="color:#234262!important; font-size: 11px;"> *The Medical Syposium qualifies for Continuing Medical Education. Upon your successful registration you will be provided with a link to access the conference. This Conference link is non transferable.  </p>
                                 </div>
                             </form>
                         </div>
