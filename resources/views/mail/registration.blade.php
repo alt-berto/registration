@@ -508,7 +508,7 @@
                                         <h1 style="margin-top: 0; color: #004389!important; font-size: 1.8em; font-weight: bold; text-align: left; margin: 0; padding: 0!important;"
                                             align="left">Hello</h1>
                                         <p style="font-size: 16px; line-height: 1.625; color: #51545E; margin: .4em 0 1.1875em;">
-                                            Thanks for submitting the registration form, we will keep you on touch later with the more details about the event.
+                                            Thank you for your registration submission, we will be in touch with more details about the event.
 
                                         </p>
                                         <h1><strong style="color: #004389!important;"> Your information is:</strong></h1>
